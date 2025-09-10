@@ -6,7 +6,7 @@ conda create -n books python=3.7.10 -y
 ```
 
 ```bash
-conda activate book
+conda activate books
 ```
 
 ```bash
